@@ -1,0 +1,9 @@
+#nice stuff
+https://github.com/aframevr/aframe/blob/master/docs/introduction/models.md
+https://github.com/WebVRRocks/webvrrocks/issues/50
+
+# 3d stl stuff import in blender convert to collada or obj
+https://www.thingiverse.com/
+
+# animatie
+https://www.youtube.com/watch?v=Gb152Qncn2s
